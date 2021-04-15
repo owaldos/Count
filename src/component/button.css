@@ -1,0 +1,21 @@
+.buttonCount{
+    width: 9rem;
+    height: 9rem;
+    border-radius: 50%;
+    border: none;
+    margin: 0 2rem;
+    font-size: 5em;
+    box-shadow: 0 4px 32px 0 rgba(10,14,29,.02), 0 8px 64px 0 rgba(10,14,29,.08);
+    cursor: pointer;
+}
+
+
+.buttonCount:hover{
+    font-size: 7em;
+    margin-bottom:8px;
+}
+
+.buttonCount:focus{
+    outline: 0;
+
+}
